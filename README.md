@@ -18,19 +18,9 @@ GitHub Student Pack هو عرض للطلاب يوفر أدوات مجانية ت
 2. **سجل على GitHub**: لو مش مسجل، تقدر تسجل من [github.com](https://github.com).
 3. **قدم على GitHub Student Pack**: [education.github.com/pack](https://education.github.com/pack).
 4. **فعل اشتراك DataCamp**: [datacamp.com/github-students](https://www.datacamp.com/github-students).
-
----
-
-## المزايا:
-
-- كورسات في البرمجة وتحليل البيانات.
-- شهادات معتمدة.
-- محتوى تفاعلي.
-
 ---
 
 ## للاطلاع على المزيد:
-
 للتفاصيل الكاملة، ورؤية الشرح خطوة بخطوة، قم بزيارة [GitHub Repository هنا](https://github.com/MinaaMamdouh/datacamp-github-student-activation).  
 **بشمهندس مينا ساعدنا في تقديم الفرصة دي، وأخذنا إذنه لنشر الشرح ده في المجتمع عشان الكل يستفيد.**
 
